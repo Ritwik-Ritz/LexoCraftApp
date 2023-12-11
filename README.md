@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with using React in web dev
+
+This project is my first app developed using html, css, js and react.js and was developed as part of my learning of react.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
